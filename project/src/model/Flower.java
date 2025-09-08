@@ -1,4 +1,4 @@
-public class Flower {kc
+public class Flower {//kc
     /* 
     int petalCount = 0;
 String s = new String(original:"null");
