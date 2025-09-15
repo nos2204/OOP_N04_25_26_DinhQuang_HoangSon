@@ -1,4 +1,4 @@
-package model;
+
 
 public class User{
     private static String userName;
@@ -17,3 +17,4 @@ public class User{
         userPassword = password;
     }
 }
+
