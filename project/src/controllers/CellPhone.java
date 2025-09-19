@@ -4,7 +4,7 @@ public class CellPhone {
 
     public void ring(Tune t){
 
-        System.out.println("play : "+ t.getClass());
+        System.out.println("is playing : "+ t.getClass());
 
     }
     
