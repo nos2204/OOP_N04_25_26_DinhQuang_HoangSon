@@ -1,4 +1,4 @@
-package model;
+
 
 public class NameNumber {
     private String lastName; // tên

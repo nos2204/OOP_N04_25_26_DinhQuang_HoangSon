@@ -1,4 +1,4 @@
-package model;
+
 
 public class NNCollection {
     private NameNumber[] nnArray = new NameNumber[100];

@@ -1,8 +1,6 @@
-package test;
+
 
 import java.util.Scanner;
-
-import model.stuff;
 
 public class test {
 
@@ -11,8 +9,9 @@ public class test {
 
         
         System.out.println("Nhap ten::::");
-        Scanner input = new Scanner(System.in);
+        Scanner Scanner = new Scanner(System.in);
 
+        Scanner input = null;
         String inputUser = input.nextLine();
 
         System.out.println("Hello: "+ inputUser);
