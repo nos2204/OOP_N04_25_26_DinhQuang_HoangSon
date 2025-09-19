@@ -2,6 +2,8 @@
 
 import java.util.Scanner;
 
+import model.stuff;
+
 public class test {
 
     public static void testing() {

@@ -1,3 +1,5 @@
+package model;
+
 public class Leaf {
     int i = 0;
 

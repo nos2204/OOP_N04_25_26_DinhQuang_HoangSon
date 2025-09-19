@@ -1,3 +1,5 @@
+package model;
+
 public class Flower {//kc
     /* 
     int petalCount = 0;
